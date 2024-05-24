@@ -1,0 +1,43 @@
+/* Styles for the container */
+.container {
+  font-family: Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border: 1px solid #ddd;
+}
+
+/* Inherited styles */
+.intro-text {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+/* Font-specific styles */
+.font-roboto {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5em;
+  border: 5px solid red;
+  color: #2c3e50;
+}
+
+.font-lobster {
+  font-family: 'Inter', cursive;
+  font-size: 1.5em;
+  color: #8e44ad;
+  border: 5px solid blue;
+}
+
+/* Various text styles */
+.styled-text {
+  font-size: 1.1em;
+  color: #e74c3c;
+  line-height: 2;
+  text-align: center;
+
+}
+
+body {
+  margin: 0
+}
